@@ -3,6 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height="200px" width="300px">
 <p align="left"> 📫 How to reach me:<a href="mailto:asthachaurasia272006@gmail.com">asthachaurasia272006@gmail.com</a></p>
+<p align="left"> 📫 My Work :<a href="https://portfolio-henna-eight-58.vercel.app/">Portfolio</a></p>
  <p style="margin-top: 20px;"></p>
 
 <h3 align="left">Connect with me:</h3>
